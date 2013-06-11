@@ -1,5 +1,5 @@
 /**
- * 定义 QeePHP 核心类，并初始化框架基本设置
+ * 定义 SunFramework 核心类，并初始化框架基本设置
  *
  * @link 
  * @copyright Copyright (c) 2013-2013 HiSun Software Inc. {@link }
