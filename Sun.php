@@ -20,8 +20,8 @@ defined('SUN_PATH') or define('SUN_PATH',dirname(__FILE__));
 /**
  * 是否开启调试 默认关闭
  */
- 
 defined('SUN_DEBUG') or define('SUN_DEBUG',false);
+
 /**
  * 地址分隔符 DIRECTORY_SEPARATOR 的简写
  */
