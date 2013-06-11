@@ -37,7 +37,7 @@ class Sun
     /**
      * 返回 SunFramework 版本号
      *
-     * @return string QeePHP 版本号
+     * @return string SunFramework 版本号
      */
     static function getVersion()
     {
