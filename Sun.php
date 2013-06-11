@@ -2,7 +2,7 @@
  * 定义 SunFramework 核心类，并初始化框架基本设置
  *
  * @link 
- * @copyright Copyright (c) 2013-2013 HiSun Software Inc. {@link }
+ * @copyright Copyright (c) 2013-2013 SunFramework Inc. {@link }
  * @license New BSD License {@link }
  * @version $Id: Sun.php 1 2013-06-11 21:00:17Z Henry $
  * @package core
